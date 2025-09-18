@@ -1,7 +1,7 @@
 # 🏥 Medical Report Analyzer
 
 ## 📌 Overview
-This project is a **full-stack application** that extracts and summarizes medical reports from uploaded PDF files.  
+This project extracts and summarizes medical reports from uploaded PDF files.  
 It combines a **FastAPI backend** for PDF text extraction with a **React frontend** powered by **Google Gemini AI** for generating medical summaries.  
 
 Users can upload medical report PDFs, view the extracted text, and get a structured AI-generated summary of conditions, diagnosis, and treatment plans.  
