@@ -6,7 +6,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai"
 import "./ocr.css"
 
 // Initialize Gemini API
-const genAI = new GoogleGenerativeAI("AIzaSyBqVOV8quNcRTp03PgY7IjOmVsjHhDpEd8")
+const genAI = new GoogleGenerativeAI("your api key")
 
 const OCR = () => {
   const [pdfText, setPdfText] = useState("")
